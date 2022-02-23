@@ -1,0 +1,4 @@
+- bug em que qunado edito, é permitida a entrada de 
+  campo vazio no título e na url;
+    *aula "validando a entrada" no módulo "Login JWT"
+     ensina a corrigir.
